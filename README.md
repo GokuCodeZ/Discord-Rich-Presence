@@ -6,3 +6,10 @@ Rich Presence using python &lt;3
 put you'r bot id in pypresence.Presence to activate rich presence!
 
 ~ ily <3
+
+### Libs i used <3
+Pypresence
+time
+
+##pip install pypresence
+#pip install time

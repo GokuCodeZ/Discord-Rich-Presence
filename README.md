@@ -7,9 +7,9 @@ put you'r bot id in pypresence.Presence to activate rich presence!
 
 ~ ily <3
 
-### Libs i used <3
+### Libs i used..
 Pypresence
 time
 
-##pip install pypresence
-#pip install time
+## pip install pypresence
+## pip install time
